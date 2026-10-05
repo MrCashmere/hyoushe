@@ -13,6 +13,7 @@
 
 - [BTMuli/TeyvatGuide](https://github.com/BTMuli/TeyvatGuide) — MIT — 历史卡池数据集（通过 jsDelivr 下载 `gacha.json`）
 - [UIGF 公开字典接口](https://api.uigf.org/dict/genshin/chs.json) — UIGF 项目的一部分
+
 注意：历史卡池数据集并不依赖以上项目，我们使用了其标准并基于官方wiki建立了自己的内置数据集。**非原神部分**使用的是我们的自建数据集。
 
 ## 对照实现（对照文档+参考文档，未使用其代码）
