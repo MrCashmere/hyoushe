@@ -5,6 +5,7 @@
 **非开源项目，Github 仓库仅在 Release 提供安装包分发。**
 
 ## 正在用ChatGPT Pro的 GPT-6 Astra Ultra 攻击屎山代码 / Currently using ChatGPT Pro's GPT-6 Astra Ultra to wrangle the giant pile of legacy spaghetti code.
+**即将更新的繁体中文，英语，日本语，韩语将由GPT-6 Terra负责翻译**
 
 全能型二游社区类 App，现在已经支持：
 
