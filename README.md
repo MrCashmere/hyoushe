@@ -74,6 +74,16 @@
 
 [第三方API使用说明](THIRD_PARTY_APIs.md)
 
+## Stelle History
+
+<a href="https://www.star-history.com/?repos=mrcashmere%2Fhyoushe&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=mrcashmere/hyoushe&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=mrcashmere/hyoushe&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=mrcashmere/hyoushe&type=date&legend=top-left" />
+ </picture>
+</a>
+
 ## 开源致谢
 
 本项目虽然为闭源项目，但使用了如下开源项目的部分代码或对其代码、文档进行了部分参考，点这里查看致谢文档 > [致谢...](ACKNOWLEDGMENTS.md)
